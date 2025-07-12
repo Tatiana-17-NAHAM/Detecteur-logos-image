@@ -144,4 +144,4 @@ Ce projet démontre les phases clés du traitement d'image en utilisant Python :
 ## 👩‍💻 Auteur
 Ce projet a été réalisé par Tatiana SANGUEAL NAHAM, passionnée par l’analyse visuelle, le traitement d’image et les projets intelligents mêlant données et graphisme.
 
-📧 Contact : nsanguealtatiana@oulook.com 🔗 GitHub : Tatiana-17-NAHAM 🔗 LinkedIn : tatiana-sanguéal-naham-050170178
+📧 Contact : nsanguealtatiana@oulook.com 🔗 LinkedIn : 🔗 ([https://www.linkedin.com/in/ton-lien-linkedin](https://www.linkedin.com/in/tatiana-sangu%C3%A9al-naham-050170178/))
