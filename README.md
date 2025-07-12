@@ -2,7 +2,7 @@
 ![Auteur](https://img.shields.io/badge/Auteur-Tatiana%20SANGUEAL%20NAHAM-blue)
 
 # Détecteur-logos-image
-Projet d'exploration en vision par ordinateur : traitement d'image, détection locale et visualisation des zones d’intérêt.
+Ce dépôt offre une exploration pratique du traitement visuel d'images en Python, à travers l'examen graduel d'un logo.  Les procédures comprennent : dissociation des éléments RGB, filtrage des contours, extraction spécifique, masquage basé sur la couleur ( colorimétrique) et synthèse statistique.
 
 ## 🧭 Sommaire
 - [🎯 Objectifs du projet](#objectifs-du-projet)
