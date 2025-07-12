@@ -1,4 +1,6 @@
 ![Statut](https://img.shields.io/badge/🔥_Projet-Actif-EA4C4C.svg)
+![Auteur](https://img.shields.io/badge/Auteur-Tatiana%20SANGUEAL%20NAHAM-blue)
+
 # Détecteur-logos-image
 Projet d'exploration en vision par ordinateur : traitement d'image, détection locale et visualisation des zones d’intérêt.
 
@@ -114,7 +116,32 @@ Cela permet de mesurer les valeurs numériques des canaux de couleur (RGB) dans 
 | 🔵 Bleu | 223 | 255 | **253.36** |
 | 🟢 Vert | 0   | 255 | **73.90**  |
 | 🔴 Rouge| 0   | 255 | **73.74**  |
+👉 Ces statistiques aident à comprendre le poids de chaque couleur dans la zone, à définir des seuils, et à valider les masques colorimétriques appliqués dans les étapes précédentes.
 
 
+ ## 🔮 Perspectives et évolutions possibles
+ Ce projet établit les fondations d'un système de détection visuelle performant, en s'appuyant sur des phases organisées et reproductibles.  Il peut aisément se développer vers des applications plus avancées, comme :
 
+-  🤖 Identification automatique de logos  Incorporation de modèles déjà formés (par exemple : CNN, OpenCV, scikit-learn) pour détecter des logos dans diverses images.
+-  🧠 Amélioration par l'intelligence artificielle  Mise en œuvre de réseaux neuronaux pour perfectionner la segmentation, catégoriser les zones identifiées ou repérer des motifs visuels.
+-   🖥️ Interface utilisateur interactive  Mise en œuvre avec des outils tels que Streamlit ou Tkinter pour faciliter l'accès au traitement via une interface utilisateur graphique.
+- 🗂️ Traitement par lots multi-images  Incorporation de scripts pour gérer automatiquement plusieurs images et identifier les logos ou motifs récurrents.
 
+-  📌 Élargissement vers d'autres formes d'analyse visuelle.  Ajustement du flux de travail pour la thermographie, l'analyse industrielle et le stockage numérique.
+
+## 📍 Conclusion
+Ce projet démontre les phases clés du traitement d'image en utilisant Python : de la discrimination des couleurs à la détection des contours, jusqu'à la récupération automatique de régions à l'aide de masques.  Le notebook Jupyter offre une plateforme où toutes les actions sont à la fois visibles et répétables, ce qui constitue une base robuste pour la création d'outils de reconnaissance visuelle destinés à l'analyse de logos, d'objets ou de zones spécifiques d'intérêt.
+📌  L'approche adoptée fournit un fondement robuste pour une diversité d'applications :
+
+- Identification automatique de logos.
+
+ - Segmentation d'objets
+
+-  Analyse de couleur en imagerie thermique ou industrielle.
+
+ Le notebook Jupyter permet un traitement qui est réplicable, bien documenté et aisément extensible pour des améliorations futures telles que l'ajout d'algorithmes d'intelligence artificielle ou d'une interface utilisateur.
+
+## 👩‍💻 Auteur
+Ce projet a été réalisé par Tatiana SANGUEAL NAHAM, passionnée par l’analyse visuelle, le traitement d’image et les projets intelligents mêlant données et graphisme.
+
+📧 Contact : nsanguealtatiana@oulook.com 🔗 GitHub : Tatiana-17-NAHAM 🔗 LinkedIn : tatiana-sanguéal-naham-050170178
