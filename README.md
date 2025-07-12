@@ -64,7 +64,7 @@ L’image est décomposée en ses trois canaux principaux : rouge, vert et bleu.
 ## 📐 Dérivées visuelles (bordures)
 Cette phase met en œuvre les filtres de Sobel sur l'image en monochrome afin d'identifier les contours :
 
-![Dérivées visuelles - Sobel](./derivées_sobel_adobe.png)
+![Dérivées visuelles - Sobel](./imagedvs.png)
 
 
 -   Zoom sur des zones spécifiques
