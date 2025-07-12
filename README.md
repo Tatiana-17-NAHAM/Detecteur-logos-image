@@ -62,12 +62,19 @@ L’image est décomposée en ses trois canaux principaux : rouge, vert et bleu.
 - Le vert, quant à lui, est plus diffus dans cette image.
 
 ## 📐 Dérivées visuelles (bordures)
-Cette phase met en œuvre les filtres de Sobel sur l'image en monochrome afin d'identifier les contours :
+Cette phase utilise les filtres de Sobel sur l'image en monochrome afin d'identifier les contours.  Ces dérivées servent à détecter les variations de luminosité, pratiques pour identifier les contours d'un logo ou ses formes géométriques :
 
 ![Dérivées visuelles - Sobel](./image%20dvs.png)
 
+Sobel Horizontal : met en évidence les lignes verticales (contours gauche-droite)
+
+Sobel Vertical : révèle les lignes horizontales (contours haut-bas)
+
+📍 Dans le cas du logo Adobe, ces dérivées exposent les traits du “A” central et les limites du cadre avec précision.
+
+## 🔍  Zoom sur des zones spécifiques
+Cette phase consiste à isoler des éléments spécifiques de l'image (tels qu'un logo ou un détail graphique) et à les agrandir pour faciliter leur analyse.  Chaque zone est extraite en fonction de ses coordonnées dans l'image, puis interpolée afin d'obtenir une image claire :
 
 
 
--   Zoom sur des zones spécifiques
 -   Extraction automatique par couleur dominante
