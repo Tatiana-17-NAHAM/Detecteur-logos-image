@@ -50,9 +50,19 @@ Dans cette section, vous découvrirez les différentes étapes du traitement app
 
 ## 🎨 Séparation des composantes de couleur ( RGB)
 L’image est décomposée en ses trois canaux principaux : rouge, vert et bleu. Cette étape permet d’analyser visuellement l’intensité de chaque couleur dans le logo Adobe.
+
 ![Séparation RGB - logo Adobe](./image%20RGB.png)
 
+📍 On observe que :
 
--  Dérivées visuelles (bordures)
+- Le canal bleu est extrêmement dominant — il rend le logo très lumineux dans cette composante.
+
+- Le rouge révèle les détails les plus nets dans le logo original.
+
+- Le vert, quant à lui, est plus diffus dans cette image.
+
+## 📐 Dérivées visuelles (bordures)
+Cette phase met en œuvre les filtres de Sobel sur l'image en monochrome afin d'identifier les contours :
+
 -   Zoom sur des zones spécifiques
 -   Extraction automatique par couleur dominante
