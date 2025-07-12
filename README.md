@@ -98,8 +98,22 @@ Cette méthode est utile dans des projets de reconnaissance visuelle, d’analys
 L’ensemble du traitement visuel a été réalisé dans un notebook Jupyter
 📘 Voir le notebook Jupyter : [notebook détecteur](./notebook_detecteur.ipynb)
 
+## 📍 Résultats
 
+## 📊 Statistiques sur les zones extraites
 
+En complément aux visualisations, une étude quantitative a été effectuée sur une zone précise de l'image (extrait [50:100, 50:100]).  Cela permet d'évaluer les valeurs numériques des canaux de couleur (RGB) dans une zone ciblée et d'en déduire des informations pertinentes pour l'identification ou le filtrage.
+
+## 📊 Statistiques sur les zones extraites
+
+Pour compléter les visualisations, une analyse quantitative a été réalisée sur une zone spécifique de l’image (coordonnées `[50:100, 50:100]`).  
+Cela permet de mesurer les valeurs numériques des canaux de couleur (RGB) dans une portion localisée.
+
+| Couleur | Min | Max | Moyenne |
+|--------|-----|-----|---------|
+| 🔵 Bleu | 223 | 255 | **253.36** |
+| 🟢 Vert | 0   | 255 | **73.90**  |
+| 🔴 Rouge| 0   | 255 | **73.74**  |
 
 
 
