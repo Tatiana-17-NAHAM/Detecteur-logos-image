@@ -32,3 +32,25 @@ Ce dépôt comprend :
 
 - Le fichier README.md avec explications du projet et des résultats
 
+## 🛠️ Technologies
+Le projet repose sur les librairies suivantes :
+
+- Python 3.x
+
+- OpenCV (cv2)
+
+- scikit-image (skimage)
+
+- scipy
+
+- matplotlib
+
+## 📸 Visualisations
+Dans cette section, vous découvrirez les différentes étapes du traitement appliqué à l’image principale ( logo Adobe) Chaque visualisation est accompagnée d’une courte explication pour interpréter les résultats obtenus lors de l’analyse :
+
+## 🎨 Séparation des composantes de couleur ( RGB)
+L’image est décomposée en ses trois canaux principaux : rouge, vert et bleu. Cette étape permet d’analyser visuellement l’intensité de chaque couleur dans le logo Adobe.
+
+-  Dérivées visuelles (bordures)
+-   Zoom sur des zones spécifiques
+-   Extraction automatique par couleur dominante
