@@ -24,8 +24,9 @@ Développer un outil simple en Python pour :
 ## 📂 Contenu
 Ce dépôt comprend :
 
-- L’image principale (logo Adobe) utilisée pour toutes les analyses visuelles : ![Image originale - img3](./img3.png)
+- L’image principale (logo Adobe) utilisée pour toutes les analyses visuelles :
 
+![Image originale - img3](./img3.png)
 
 - Le notebook Jupyter analyse_img3.ipynb contenant le code étape par étape
 
