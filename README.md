@@ -93,3 +93,7 @@ Bleu < 100
 
 📌 Le masque ainsi généré met en valeur les régions rouges intenses du logo, ce qui facilite leur repérage sans intervention manuelle.
 Cette méthode est utile dans des projets de reconnaissance visuelle, d’analyse thermique ou de segmentation d’image basée sur les couleurs dominantes.
+
+## 📘 Notebook
+L’ensemble du traitement visuel a été réalisé dans un notebook Jupyter
+[📘 Ouvrir le notebook Jupyter](./analyse_img3.ipynb)
