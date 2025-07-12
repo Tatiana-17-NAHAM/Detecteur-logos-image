@@ -96,7 +96,8 @@ Cette méthode est utile dans des projets de reconnaissance visuelle, d’analys
 
 ## 📘 Notebook
 L’ensemble du traitement visuel a été réalisé dans un notebook Jupyter
-[📘 Voir le notebook Jupyter](./D%C3%A9tecteur%20visuel%20Analyse%20de%20l%E2%80%99image.ipynb)
+📘 Voir le notebook Jupyter : [notebook détecteur](./notebook_detecteur.ipynb)
+
 
 
 
