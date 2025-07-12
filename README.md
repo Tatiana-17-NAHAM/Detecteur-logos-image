@@ -78,4 +78,15 @@ Cette phase consiste à isoler des éléments spécifiques de l'image (tels qu'u
 ![Zone zoomée - image Adobe](./image%20zoom.png)
 📍 Dans le cas du logo Adobe, les zones zoomées révèlent les formes et contrastes internes avec plus de précision ce qui facilite la détection de logo ou l’analyse de texture locale.
 
--   Extraction automatique par couleur dominante
+## 🎯 Extraction automatique par couleur dominante
+Cette étape utilise des seuils sur les composantes de couleur (rouge, vert, bleu) pour créer un masque visuel. Elle permet d’isoler automatiquement les zones qui présentent une forte intensité dans une couleur précise — ici, le rouge.
+
+📍 Critères utilisés :
+
+Rouge > 150
+
+Vert < 100
+
+Bleu < 100
+
+
