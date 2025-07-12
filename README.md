@@ -75,6 +75,7 @@ Sobel Vertical : révèle les lignes horizontales (contours haut-bas)
 ## 🔍  Zoom sur des zones spécifiques
 Cette phase consiste à isoler des éléments spécifiques de l'image (tels qu'un logo ou un détail graphique) et à les agrandir pour faciliter leur analyse.  Chaque zone est extraite en fonction de ses coordonnées dans l'image, puis interpolée afin d'obtenir une image claire :
 
-
+![Zone zoomée - image Adobe](./image%20zoom.png)
+📍 Dans le cas du logo Adobe, les zones zoomées révèlent les formes et contrastes internes avec plus de précision ce qui facilite la détection de logo ou l’analyse de texture locale.
 
 -   Extraction automatique par couleur dominante
