@@ -116,6 +116,7 @@ Cela permet de mesurer les valeurs numériques des canaux de couleur (RGB) dans 
 | 🔵 Bleu | 223 | 255 | **253.36** |
 | 🟢 Vert | 0   | 255 | **73.90**  |
 | 🔴 Rouge| 0   | 255 | **73.74**  |
+
 👉 Ces statistiques aident à comprendre le poids de chaque couleur dans la zone, à définir des seuils, et à valider les masques colorimétriques appliqués dans les étapes précédentes.
 
 
